@@ -1,0 +1,19 @@
+{
+  "name": "ember-cli-lodash-shim",
+  "version": "1.0.0",
+  "description": "ember-cli-lodash-shim ===========",
+  "main": "lodash-shim.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buritica/ember-cli-lodash-shim.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/buritica/ember-cli-lodash-shim/issues"
+  },
+  "homepage": "https://github.com/buritica/ember-cli-lodash-shim"
+}
