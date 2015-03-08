@@ -1,12 +1,12 @@
 {
-  "name": "ember-cli-moment-shim",
+  "name": "ember-cli-lodash-shim",
   "main": [
-    "moment-shim.js"
+    "lodash-shim.js"
   ],
-  "version": "0.0.3",
-  "homepage": "https://github.com/jasonmit/ember-cli-moment-shim",
+  "version": "0.0.1",
+  "homepage": "https://github.com/buritica/ember-cli-lodash-shim",
   "authors": [
-    "Jason Mitchell <jason.mitchell.w@gmail.com>"
+    "Juan Pablo Buritica <buritica@gmail.com>"
   ],
   "license": "MIT",
   "ignore": [
@@ -16,6 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "moment": ">=2.7.0"
+    "lodash": "~3.4.0"
   }
 }

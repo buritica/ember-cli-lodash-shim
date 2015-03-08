@@ -1,5 +1,5 @@
 (function() {
-/* globals define, moment */
+/* globals define, _ */
 
   function generateModule(name, values) {
     define(name, [], function() {
